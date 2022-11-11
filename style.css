@@ -394,7 +394,7 @@ footer span a:hover{
     text-decoration: underline;
 }
 .teams .title::after{
-    content: "Click here to see my project"; 
+    content: "Click here"; 
 }
 .teams .carousel .card{
     background: rgb(185, 136, 32);
